@@ -20,7 +20,7 @@
 <img src='https://github.com/PauliPuli/DE-Inscripciones/blob/063966095d025d89feda578e10df47be0e01de37/img/subconsulta-antiguedad.png'>
 <hr>
 <li>¿Cuántos inscritos hay por día? (entendiendo un día como una fecha distinta de ahora en adelante)</li>
-<img scr='https://github.com/PauliPuli/DE-Inscripciones/blob/063966095d025d89feda578e10df47be0e01de37/img/inscritosxDia.png'>
+<img scr='https://github.com/PauliPuli/DE-Inscripciones/blob/main/img/inscritosxDia.png?raw=true'>
 <hr>
 <li>¿Qué día se inscribieron la mayor cantidad de personas y cuántas personas se inscribieron en ese día?</li>
 <p>R: El 1° de Agosto del 2021 fue el día en que más se inscribieron personas con un total de 182 personas.</p>
